@@ -7,7 +7,7 @@ import android.widget.Toast;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-//Test
+
     private TextView t;
 
     @Override
